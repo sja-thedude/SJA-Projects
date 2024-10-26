@@ -31,16 +31,16 @@ This contains all code projects which includes programs, websites, web applicati
 
 This contains all no-code projects from different no-code platforms.
 
-1- Wordpress Websites -: [SJA Bicycles](https://sjabicycles.wordpress.com/), [SJA Perfumes](https://sjasite5.wordpress.com/) 
+1- Wordpress Websites [[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/76FN4YAD9ZQJ)] -: [SJA Bicycles](https://sjabicycles.wordpress.com/) , [SJA Perfumes](https://sjasite5.wordpress.com/) 
 
-2- Carrd Websites -: [SJA Site](https://sja-site.carrd.co/), [Khepri Service](https://khepriservice.carrd.co/)
+2- Carrd Websites [[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/VPL86JB8ABLT)] -: [SJA Site](https://sja-site.carrd.co/) , [Khepri Service](https://khepriservice.carrd.co/)
 
-3- Webflow Websites -: [SJA Website](https://sja-website.webflow.io/), [SJA SuperEvent](https://sja-superevent-site-bdd841.webflow.io/) 
+3- Webflow Websites [[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/Z85RF3VHLE9H)] -: [SJA Website](https://sja-website.webflow.io/) , [SJA SuperEvent](https://sja-superevent-site-bdd841.webflow.io/)
 
-4- Weebly Website -: [SJA Robotics](https://sja-robotics.weebly.com/)  
+4- Weebly Website [[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/BEL342P459EJ)] -: [SJA Robotics](https://sja-robotics.weebly.com/)  
 
-5- Glide App -: [SJA book App](https://sjas-bookapp.glide.page/) 
+5- Glide App [[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/DB4V5Q49LGM4)] -: [SJA book App](https://sjas-bookapp.glide.page/) 
 
-6- Mailchimp Landing Page -: [SJA Restaurant](https://mailchi.mp/f265712320d3/sja-restaurant)
+6- Mailchimp Landing Page [[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/B58LFHEZ4GUH)] -: [SJA Restaurant](https://mailchi.mp/f265712320d3/sja-restaurant)
 
 7- Systeme Landing Page -: [Khepri Service](https://khepriservice-marketing.systeme.io/)
