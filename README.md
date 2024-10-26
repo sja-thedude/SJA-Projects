@@ -31,7 +31,7 @@ This contains all code projects which includes programs, websites, web applicati
 
 This contains all no-code projects from different no-code platforms.
 
-1- Wordpress Websites [[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/76FN4YAD9ZQJ)] -: [SJA Bicycles](https://sjabicycles.wordpress.com/) , [SJA Perfumes](https://sjasite5.wordpress.com/) 
+1- Wordpress Websites [[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/76FN4YAD9ZQJ)] -: [SJA Bicycles](https://sjabicycles.wordpress.com/) , [SJA Business](https://sjasite5.wordpress.com/) 
 
 2- Carrd Websites [[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/VPL86JB8ABLT)] -: [SJA Site](https://sja-site.carrd.co/) , [Khepri Service](https://khepriservice.carrd.co/)
 
