@@ -33,7 +33,7 @@ This contains all no-code projects from different no-code platforms.
 
 1- Wordpress Websites [[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/76FN4YAD9ZQJ)] -: [SJA Bicycles](https://sjabicycles.wordpress.com/) , [SJA Business](https://sjasite5.wordpress.com/) 
 
-2- Carrd Websites [[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/VPL86JB8ABLT)] -: [SJA Site](https://sja-site.carrd.co/) , [Khepri Service](https://khepriservice.carrd.co/)
+2- Carrd Websites [[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/VPL86JB8ABLT)] -: [SJA Shifters](https://sja-site.carrd.co/) , [Khepri Service](https://khepriservice.carrd.co/)
 
 3- Webflow Websites [[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/Z85RF3VHLE9H)] -: [SJA Website](https://sja-website.webflow.io/) , [SJA SuperEvent](https://sja-superevent-site-bdd841.webflow.io/)
 
